@@ -28,6 +28,6 @@ I'm looking for long-term contributors/partners to this repo! Send me [PRs](http
 ![how-to-contribute](/img/how-to-contribute-yanglbme.png)
 
 ## Contributors
-This project exists thanks to all the people who contribute. 
+This project exists thanks to all the people who contribute.!
 
 <a href="https://github.com/doocs/leetcode/graphs/contributors"><img src="https://opencollective.com/leetcode-280/contributors.svg?width=890&button=false" /></a>
